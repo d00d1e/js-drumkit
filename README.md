@@ -2,7 +2,7 @@
 
 HTML | CSS | JAVASCRIPT
 
-A Patatap inspired drum kit
+A Patatap inspired drum kit 🤘😝
 
 <img src="assets/img/screenshot.png">
 
@@ -10,4 +10,4 @@ A Patatap inspired drum kit
 
 [Patatap](https://en.wikipedia.org/wiki/Patatap), a visual sound kit with animations created by developer Jono Brandel and electronic duo, Shawn Hames Seymour and Yoshimi Tomida of Lullatone.
 
-Original [Patatap](https://patatap.com/)
+Check out the original [Patatap](https://patatap.com/)!
